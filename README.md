@@ -9,7 +9,7 @@ My name is Murilo Eduardo from Brazil (🇧🇷). I currently do systems analysi
 - 📫 If in case you want to start with programming, I can help you :)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute  a Open Source project
+- 🥅 2021 Goals: Contribute  a Open Source project
 
 
 ### Would you like to find me?
