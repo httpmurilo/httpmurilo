@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **learning everything**
 
-- 👯 I’m looking to collaborate on **open sources projetos**
+- 👯 I’m looking to collaborate on **open sources projects**
 
 - 🤝 I’m looking for help with **codes in Java and C#**
 
