@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **open sources projects**
 
-- 🤝 I’m looking for help with **codes in Java and C#**
-
 - 📫 How to reach me **murilo@4solut.com.br**
 
 - ⚡ Fun fact **I love fishing**
