@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=httpmurilo" alt="httpmurilo" /></a> </p>
 
-- 🌱 I’m currently learning **learning everything**
+- 🌱 I’m currently learning **everything**
 
 - 👯 I’m looking to collaborate on **open sources projects**
 
