@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer from Brazil</h3>
 
 
-- 🌱 I’m currently learning **Java**.
+- 🌱 I’m currently learning **systems architecture**.
 
 - 👯 I’m looking to collaborate on **open sources projects**.
 
