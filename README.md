@@ -6,8 +6,6 @@
 
 - 👯 I’m looking to collaborate on **open sources projects**.
 
-- 📫 How to reach me **murilo@4solut.com.br**.
-
 - ⚡ Fun fact **I love fishing**.
 
 
